@@ -1,5 +1,5 @@
 # 42 Paris : lboulang Projects Overview
-<img src="/imgs/assets42/42_Paris_Banner.jpg" width="1000" height="450">
+<img src="/imgs/assets42/42_banner.jpg" width="1000" height="450">
 
 >This repo is an overview of my 42 School projects. It show every projects I finished and my grades with a little explanation and the keys I had to learn to do them Feel free to click on the project name to see the full project repository for detailed informations and read my code.
 
